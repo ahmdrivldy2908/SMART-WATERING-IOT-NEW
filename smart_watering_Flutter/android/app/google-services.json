@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "576402629154",
+    "firebase_url": "https://smart-watering-iot-a6306-default-rtdb.firebaseio.com",
+    "project_id": "smart-watering-iot-a6306",
+    "storage_bucket": "smart-watering-iot-a6306.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576402629154:android:91d9b39515eef74085207b",
+        "android_client_info": {
+          "package_name": "com.example.smart_watering"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPUyrqXWkG1eibFEapUQ-_7Hrp2UCGyvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
